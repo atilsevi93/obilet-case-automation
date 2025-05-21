@@ -5,6 +5,7 @@ This automation project checks the login processes and flight ticket transaction
 - **Java**: Programming language used for writing test scripts.
 - **Selenium**: Framework for web application testing.
 - **Cucumber**: Tool for running automated tests written in plain language.
+- **Allure Report**: Open-source HTML test automation report tool.
 - **Logger**: Tool for logging the test execution details.
 
 ## Project Structure
